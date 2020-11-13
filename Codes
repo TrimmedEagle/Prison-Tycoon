@@ -1,5 +1,6 @@
 [
     ["FREEZERAY", 100000, "Cash"],
     ["TEST1", 100000, "Cash"],
-    ["TEST2", 100000, "Cash"]
+    ["TEST2", 100000, "Cash"],
+    ["LASER", 100000, "Cash"]
 ]
