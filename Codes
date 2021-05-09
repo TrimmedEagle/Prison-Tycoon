@@ -3,5 +3,6 @@
     ["TEST1", 100000, "Cash"],
     ["TEST2", 100000, "Cash"],
     ["LASER", 100000, "Cash"],
-    ["WHALETUBE", 100000, "Cash"]
+    ["WHALETUBE", 100000, "Cash"],
+    ["20K", 200000, "Cash"]
 ]
