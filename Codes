@@ -5,5 +5,6 @@
     ["LASER", 100000, "Cash"],
     ["WHALETUBE", 100000, "Cash"],
     ["20K", 200000, "Cash"],
-    ["USA", 300000, "Cash"]
+    ["USA", 300000, "Cash"],
+    ["ATDISCORD", 50000, "Cash"]
 ]
