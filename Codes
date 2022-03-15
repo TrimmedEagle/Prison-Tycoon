@@ -7,5 +7,5 @@
     ["20K", 200000, "Cash"],
     ["ATDISCORD", 50000, "Cash"],
     ["JUNE", 300000, "Cash"],
-    ["fromfloor", 100000, "Cash"]
+    ["fromflor", 100000, "Cash"]
 ]
