@@ -9,5 +9,6 @@
     ["MUNEH", 300000, "Cash"],
     ["FROMFLOR", 5000000, "Cash"],
     ["GIFT", 200000, "Cash"],
-    ["MERRY", 250000, "Cash"]
+    ["MERRY", 250000, "Cash"],
+    ["VALENTINES", 250000, "Cash"]
 ]
